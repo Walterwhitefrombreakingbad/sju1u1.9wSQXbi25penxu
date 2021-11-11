@@ -315,17 +315,11 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
                 //69
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
-                for (i=0;i<105;i++) {
+                for (i=0;i<210;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -3));
                 }
-                for (i=0;i<105;i++) {
+                for (i=0;i<210;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
-                }
-                for (i=0;i<105;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
-                }
-                for (i=0;i<105;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, 3));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 6) {
                 for (i=-7;i<3;i++) {
