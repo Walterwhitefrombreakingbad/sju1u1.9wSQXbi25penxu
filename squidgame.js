@@ -18,36 +18,36 @@ window.snake.more_menu = function(e) {
   // super big
   img = new Image;
   img.src = 'https://i.postimg.cc/mg4wkHK8/superbig-1.png';
-  img.width = 47;
-  img.height = 47;
+  img.width = 69;
+  img.height = 69;
   document.querySelector('#size').appendChild(img);
 
   // ultra big
   img = new Image;
   img.src = 'https://i.postimg.cc/1RLMxTBx/ultrabig-1.png';
-  img.width = 47;
-  img.height = 47;
+  img.width = 80;
+  img.height = 80;
   document.querySelector('#size').appendChild(img);
 
   // humongous
   img = new Image;
   img.src = 'https://i.postimg.cc/vmHtLdYn/humoungus-1.png';
-  img.width = 47;
-  img.height = 47;
+  img.width = 100;
+  img.height = 100;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
   img.src = 'https://i.postimg.cc/8CKBZnc0/toobigg-1.png';
-  img.width = 47;
-  img.height = 47;
+  img.width = 120;
+  img.height = 120;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
   img.src = 'https://i.postimg.cc/Fsdz2CRL/purgatory.png';
-  img.width = 47;
-  img.height = 47;
+  img.width = 150;
+  img.height = 150;
   document.querySelector('#size').appendChild(img);
 
 
@@ -350,11 +350,11 @@ window.snake.more_menu = function(e) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 4));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7) {
-                for (i=0;i<200;i++) {
+                for (i=0;i<6969;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
-                  for (i=0;i<10000;i++) {
+                  for (i=0;i<69420;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                   }
               } else
