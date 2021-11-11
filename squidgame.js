@@ -322,32 +322,11 @@ window.snake.more_menu = function(e) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 6) {
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -4));
+                for (i=0;i<777;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -3));
                 }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -3));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -2));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -1));
-                }
-                for (i=-3;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 0));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 1));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 2));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 3));
-                }
-                for (i=-7;i<3;i++) {
-                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 4));
+                for (i=0;i<666;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 7) {
                 for (i=0;i<6969;i++) {
