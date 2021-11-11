@@ -234,10 +234,10 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -1));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
