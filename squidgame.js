@@ -239,20 +239,35 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -1));
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4) {
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -7, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -7, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -7, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, -2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 2));            
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
+               //28 apples rn
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
