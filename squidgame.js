@@ -315,46 +315,18 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
                 //69
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, -3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, -2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, -1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, 0));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, 1));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 2, 2));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 3));
-                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, 3));
+                for (i=0;i<105;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -3, -3));
+                }
+                for (i=0;i<105;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
+                }
+                for (i=0;i<105;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, -3));
+                }
+                for (i=0;i<105;i++) {
+                  ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 3, 3));
+                }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 6) {
                 for (i=-7;i<3;i++) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -4));
