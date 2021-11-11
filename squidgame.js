@@ -19,35 +19,35 @@ window.snake.more_menu = function(e) {
   img = new Image;
   img.src = 'https://i.postimg.cc/mg4wkHK8/superbig-1.png';
   img.width = 69;
-  img.height = 69;
+  img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // ultra big
   img = new Image;
   img.src = 'https://i.postimg.cc/1RLMxTBx/ultrabig-1.png';
   img.width = 80;
-  img.height = 80;
+  img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // humongous
   img = new Image;
   img.src = 'https://i.postimg.cc/vmHtLdYn/humoungus-1.png';
   img.width = 100;
-  img.height = 100;
+  img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
   img.src = 'https://i.postimg.cc/8CKBZnc0/toobigg-1.png';
   img.width = 120;
-  img.height = 120;
+  img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
   img.src = 'https://i.postimg.cc/Fsdz2CRL/purgatory.png';
   img.width = 150;
-  img.height = 150;
+  img.height = 47;
   document.querySelector('#size').appendChild(img);
 
 
