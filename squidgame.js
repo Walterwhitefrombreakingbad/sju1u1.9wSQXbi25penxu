@@ -269,18 +269,51 @@ window.snake.more_menu = function(e) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -3));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
-               //28 apples
-               for (i=-8;i<2;i++) {
-               	${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, 4));
-               }
-               //9 apples per for loop
-               for (i=-8;i<2;i++) {
-               	${pafihwotyhopyplacetheiopafsjafijplesllllllll} i, -5));
-               }
-               // 46 apples
-               for (i=-4;i<3;i++) {
-               	${pafihwotyhopyplacetheiopafsjafijplesllllllll} -8, i));
-               }
+                //28
+                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -6, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -5, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -4, 2));  
+               // 9         
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
+                //56
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 0));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -1));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -2));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -2, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, -3));
+                ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, -3));
+                //69
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5) {
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 1, 2));
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 0, 2));
