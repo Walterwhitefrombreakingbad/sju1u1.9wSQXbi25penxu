@@ -222,6 +222,20 @@ window.snake.more_menu = function(e) {
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
+  
+      //252 apples
+  img = new Image;
+  img.src = 'https://i.postimg.cc/263BFbFH/Untitled178-20211111211324.png';
+  img.width = 47;
+  img.height = 47;
+  document.querySelector('#count').appendChild(img);
+  
+      //503 apples
+  img = new Image;
+  img.src = 'https://i.postimg.cc/Hk23sNYb/Untitled178-20211111211341.png';
+  img.width = 47;
+  img.height = 47;
+  document.querySelector('#count').appendChild(img);
 
   /* making do things */
   const scripts = document.getElementsByTagName('script');
@@ -389,7 +403,15 @@ window.snake.more_menu = function(e) {
                   for (i=0;i<87;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 400, 400));
                   } 
-              }
+              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 14) {
+                  for (i=0;i<252;i++) {
+                    ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 400, 400));
+                  } 
+              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 15) {
+                  for (i=0;i<503;i++) {
+                    ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 400, 400));
+                  } 
+              }   
                 ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 100000, 1));
             } else {
               if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} < 7)
@@ -597,6 +619,24 @@ window.snake.more_menu = function(e) {
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
               __c.src = 'https://i.postimg.cc/pVqc0DBC/Untitled178-20211111173100.png';
+              __c.width = __c.height = 47;
+              __c.style = 'position:fixed;top: 10px;';
+              __b.appendChild(__c);
+            }
+            if(${words} === 14) {
+              __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
+              [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
+              __c = new Image;
+              __c.src = 'https://i.postimg.cc/263BFbFH/Untitled178-20211111211324.png';
+              __c.width = __c.height = 47;
+              __c.style = 'position:fixed;top: 10px;';
+              __b.appendChild(__c);
+            }
+            if(${words} === 15) {
+              __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
+              [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
+              __c = new Image;
+              __c.src = 'https://i.postimg.cc/Hk23sNYb/Untitled178-20211111211341.png';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
