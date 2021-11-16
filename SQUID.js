@@ -429,7 +429,7 @@ window.snake.more_menu = function(e) {
                   for (i=0;i<1186;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 400, 400));
                   } 
-              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 16) {
+              } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 17) {
                   for (i=0;i<4276;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} 400, 400));
                   } 
